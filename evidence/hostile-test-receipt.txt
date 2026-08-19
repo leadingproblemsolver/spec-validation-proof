@@ -1,0 +1,13 @@
+exit_code=1
+[
+  {
+    "message": "Bundle does not exactly match the segmented source files",
+    "path": "var/hostile-test/mintlify-deal-spec-gate/project.bundle.yaml",
+    "severity": "error"
+  },
+  {
+    "message": "Unknown implementation status: production_proven",
+    "path": "portfolio_and_employer_signal.status",
+    "severity": "error"
+  }
+]
